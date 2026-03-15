@@ -1,0 +1,15 @@
+{
+  "order_after": "tokengreed",
+  "enchant": {
+    "label": "Part Finder",
+    "base_cost": 1500,
+    "step": 0.45,
+    "max": 1000
+  },
+  "finder": {
+    "max_level": 1000,
+    "blocks_per_drop_base": 14000,
+    "blocks_per_drop_min": 4000,
+    "blocks_per_level": 5
+  }
+}
